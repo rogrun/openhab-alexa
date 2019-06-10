@@ -87,3 +87,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# VS Code Workspace
+openhab-alexa.code-workspace
